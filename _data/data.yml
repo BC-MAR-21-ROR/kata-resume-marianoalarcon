@@ -56,6 +56,10 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
+  - degree: Applied Ruby on Rails Web Developer at BrightCoders
+    university: BrightCoders Academy
+    time: 2021 Mar - current
+
   - degree: Degree in computer science
     university: Universidad Nacional de Tucumán
     time: 2017 - current
@@ -128,12 +132,15 @@ skills:
     - name: MySql - PostgreSql
       level: 60%
 
+    - name: Linux - Bash -Zsh
+      level: 60%
+
     - name: Scrum - Jira - Trello
       level: 80%
 
     - name: OOP - MVC - REST
       level: 80%
-      
+    
     - name: Docker
       level: 20%
 
