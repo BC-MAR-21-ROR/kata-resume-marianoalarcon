@@ -15,12 +15,12 @@ sidebar:
   email: mariano.alarcon@hotmail.com
   phone: +549 381 5 933 830
   website: # No agregar http://
-  linkedin: www.linkedin.com/in/mariano-alarcon/
-  github: github.com/marianoalarcon
+  linkedin: mariano-alarcon/
+  github: marianoalarcon
   gitlab:
-  bitbucket: bitbucket.org/mariano_alarcon/
+  bitbucket: mariano_alarcon/
   # twitter: '@BrightCoders'
-  stack-overflow: 221122/mariano-alarcon # Number/Username, e.g. 123456/alandoe
+  stack-overflow: 15535607/mariano-alarcon # Number/Username, e.g. 123456/alandoe
   # codewars:
   goodreads: 132693830-mariano-alarcon # Number-Username, e.g. 123456-alandoe
 
@@ -114,26 +114,26 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
     - name: Ruby
       level: 40%
 
     - name: Ruby on Rails
       level: 40%
 
+    - name: HTML CSS BOOTSTRAP
+      level: 60%
+
     - name: MySql - PostgreSql
       level: 60%
 
+    - name: Scrum - Jira - Trello
+      level: 80%
+
+    - name: OOP - MVC - REST
+      level: 80%
+      
     - name: Docker
       level: 20%
-
-    - name: Scrum
-      level: 60%
-
-    - name: C/C++
-      level: 40%
 
 # NO MODIFICAR
 footer: >
