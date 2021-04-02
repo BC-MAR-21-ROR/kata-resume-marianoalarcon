@@ -61,9 +61,13 @@ educationcomplete:
     time: 2017 - current
     # details: |
 
-  - degree: Programmer/
+  - degree: Programmer
     university: Universidad Nacional de Tucumán
     time: 2017 - 2020
+
+  - degree: Electrical Technician
+    university: Escuela de Educación Tecnica N°5138 Technical School. High School of Technical Education N ° 3138 "Alberto Einstein" -
+    time: 2005 - 2010
     # details: |
     #   Unsupervised deep learning for automatic behavior analysis
 
@@ -80,9 +84,7 @@ educationcomplete:
   #       - Deep learning
   #       - Hand Gesture
 
-  - high school: Escuela de Educación Tecnica N°5138
-    Technical School: School of Technical Education N ° 3138 "Alberto Einstein" -
-    time: 2005 - 2010
+
     # details: |
     #   Master degree in Computer Engineering
 
@@ -120,7 +122,7 @@ skills:
     - name: Ruby on Rails
       level: 40%
 
-    - name: HTML CSS BOOTSTRAP
+    - name: Html Css BootStrap
       level: 60%
 
     - name: MySql - PostgreSql
